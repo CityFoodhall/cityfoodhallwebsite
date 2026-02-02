@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
   //
-  //
 
   // COCKTAIL EXPIRER
   function hideExpiredItems() {
